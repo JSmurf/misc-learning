@@ -10,3 +10,8 @@ Seven Languages in Seven Weeks
 - [ ] Erlang
 - [ ] Clojure
 - [ ] Haskell
+
+## Fun Projects
+Here are some ideas I have had for personal projects.
+- [ ] Markdown-based Static Site Generator
+- [ ] Enigma Machine Simulator
