@@ -15,3 +15,5 @@ Seven Languages in Seven Weeks
 Here are some ideas I have had for personal projects.
 - [ ] Markdown-based Static Site Generator
 - [ ] Enigma Machine Simulator
+- [ ] Random Project Idea Generator
+- [ ] App to Track Albums Listened To
