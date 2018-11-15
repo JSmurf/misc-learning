@@ -17,3 +17,4 @@ Here are some ideas I have had for personal projects.
 - [ ] Enigma Machine Simulator
 - [ ] Random Project Idea Generator
 - [ ] App to Track Albums Listened To
+- [ ] App to Track Personal Education Goals
