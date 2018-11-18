@@ -2,7 +2,7 @@
 A repo to house all of the random stuff I am working on as I learn things.
 
 ## Currently working on:
-Seven Languages in Seven Weeks
+### Seven Languages in Seven Weeks
 - [X] Ruby
 - [ ] Io
 - [ ] Prolog
@@ -10,6 +10,8 @@ Seven Languages in Seven Weeks
 - [ ] Erlang
 - [ ] Clojure
 - [ ] Haskell
+
+### [nand2tetris](https://github.com/JSmurf/nand2tetris)
 
 ## Fun Projects
 Here are some ideas I have had for personal projects.
