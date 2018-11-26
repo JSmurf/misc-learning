@@ -100,3 +100,11 @@ xor a, b
 
 ; Now, a = $66
 
+; You can also use BCD, and the daa instruction performs decimal adjustment on the accumulator
+; It basically does math according to the BCD model
+
+ld a, $39
+add a, $01
+; A = $3A
+daa ; Perform M.A.G.I.C
+; A = $40
