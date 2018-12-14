@@ -1,11 +1,7 @@
-// This is a "stub" file.  It's a little start on your solution.
-// It's not a complete solution though; you have to write some code.
-
-// Package twofer should have a package comment that summarizes what it's about.
-// https://golang.org/doc/effective_go.html#commentary
+// Package twofer provides a method for injecting an input string into a sentence
 package twofer
 
-// Function that returns a sentence made from an input string
+// ShareWith injects the input name into a sentence
 func ShareWith(name string) string {
 	// If name is blank, set it to "you" instead
 	if name == "" {
