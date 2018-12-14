@@ -1,3 +1,4 @@
+// Package space contains a method pertaining to space ages
 package space
 
 type Planet string
@@ -15,7 +16,7 @@ var orbitalPeriods = map[Planet]float64 {
 	"Uranus" : 84.016846,
 	"Neptune" : 164.79132,
 }
-
+// Age takes a number of seconds, as well as the name of a planet, and returns the age of a person who is that many seconds old in planet's years
 func Age(seconds float64, planet Planet) float64{
 	// Calculate total seconds in given planet's year
 	var orbitalPeriodInSeconds float64 = orbitalPeriods[planet] * earthSeconds
